@@ -1,0 +1,6 @@
+crewai
+dotenv
+langtrace
+langchain
+langchain-groq
+langchain-openai
