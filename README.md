@@ -39,3 +39,8 @@ This command initializes the instagram Crew, assembling the agents and assigning
 ## Understanding Your Crew
 
 The instagram Crew is composed of multiple AI agents, each with unique roles, goals, and tools. These agents collaborate on a series of tasks, defined in `tasks.py`, leveraging their collective skills to achieve complex objectives. The `agents.py` file outlines the capabilities and configurations of each agent in your crew.
+
+
+Here you can find what happened in the Backend: 
+
+![](https://github.com/sreedeepEK/instagram-automation/blob/782184d929f653fcb7a6057e26eb5186832dc303/docs/Screenshot%202024-07-18%20151905.png)
